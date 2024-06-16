@@ -1,6 +1,6 @@
 Ola! Eu sou o Alisson 👋
 
-- 🌱  Atualmente estou estudando JavaScript
+- 🌱  Atualmente estou cursando ADS
 - 👯  Procuro me tornar um desenvolvedor FullStack
 
 
